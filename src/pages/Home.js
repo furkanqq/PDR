@@ -124,7 +124,7 @@ const Home = () => {
             <div className="relative">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform duration-700">
                 <img
-                  src="https://images.pexels.com/photos/7579190/pexels-photo-7579190.jpeg"
+                  src="/banner.png"
                   alt="Psikolojik danışmanlık seansı"
                   className="w-full h-[500px] object-cover"
                 />
