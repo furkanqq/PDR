@@ -16,11 +16,11 @@ const Header = () => {
   ];
 
   return (
-    <header className="nav-header border border-red-500">
+    <header className="nav-header">
       <div className="flex items-center">
         <Link
           to="/"
-          className="font-semibold text-lg relative w-48 h-16"
+          className="font-semibold text-lg relative w-28 h-12 md:w-48 md:h-16"
           style={{ color: "var(--text-primary)" }}
         >
           <img

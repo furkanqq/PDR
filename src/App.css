@@ -317,6 +317,7 @@ body {
   
   .nav-header {
     margin: 0.5rem;
+    padding: 0.5rem;
     border-radius: 0;
     border: none;
     border-bottom: 1px solid var(--border-light);
